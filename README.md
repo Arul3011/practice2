@@ -1,1 +1,4 @@
--->  https://arul3011.github.io/practice2/
+## check it out
+```
+https://arul3011.github.io/practice2/
+```
